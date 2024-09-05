@@ -1,0 +1,8 @@
+
+out/
+.idea
+*.iml
+
+!**/src/main/**/out/
+!**/src/Course2Homework3Interfases/**/out/
+
